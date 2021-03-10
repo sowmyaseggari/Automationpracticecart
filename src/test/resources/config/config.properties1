@@ -1,0 +1,9 @@
+browser= chrome
+url=http://automationpractice.com/index.php?controller=authentication&back=my-account
+username= sowmyaseggari31@gmail.com
+password= Msandy1990
+headless= false
+heiglight= true
+huburl=
+remote= flase
+
